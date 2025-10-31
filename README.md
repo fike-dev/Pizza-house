@@ -6,6 +6,6 @@
 - Redux for global state management
 - Tailwind css for responsive design
 
-### It is live on [Pizza-house]([https://duckduckgo.com](https://pizza-house-n6z9.onrender.com/))
+### It is live on [Pizza-house](https://pizza-house-n6z9.onrender.com)
 
 #### Got any quations or feedback drop me a message here `fikadumom"gmail.com`
