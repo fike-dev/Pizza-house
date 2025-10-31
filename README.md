@@ -1,4 +1,4 @@
-#3 A small pizza ordering application built with React + Vite and tailwind css
+## 3 A small pizza ordering application built with React + Vite app
 
 ## Technologies used
 
